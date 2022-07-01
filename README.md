@@ -9,7 +9,7 @@ My purpose is create things and make positive impact for people. I enjoy gamific
 
 I work with back-end, but sometimes I make few projects in front-end. My master skills are JavaScript, TypeScript and Python. I use Node.js and Flask as frameworks back-end full stack.
 
-My current project is a platform for improve self knowledge. For this, I use psycometric techniques with gamification process, to create a simple and intuitive system to measure and motivate users.
+My current project is a platform for improve self knowledge. For this, I use psycometric techniques with gamification process, to create a simple and intuitive system to evaluate and motivate users.
 
 If yout want contact me, use this e-mail:
 
