@@ -13,4 +13,4 @@ My current project is a platform for improve self knowledge. For this, I use psy
 
 If yout want contact me, use this e-mail:
 
-:email: bruno.19@gmail.com
+:email: bruno.19ls@gmail.com
