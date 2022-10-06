@@ -1,6 +1,6 @@
 # Hi, I'm Bruno, a tipic ISTJ and Explorer
 
-*A back-end software developer and data analyst from Brazil*
+*A back-end software developer and data scientist from Brazil*
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-santos/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunopksantos/)
