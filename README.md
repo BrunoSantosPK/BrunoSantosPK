@@ -1,4 +1,4 @@
-# Hi, I'm Bruno, a tipic ISTJ and Explorer
+# Hi, I'm Bruno
 
 *A back-end software developer and data scientist from Brazil*
 
